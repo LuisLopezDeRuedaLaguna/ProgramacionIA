@@ -1,0 +1,253 @@
+alpha_2;alpha_3;area;capital;continente;moneda;nombre;poblacion
+AD;AND;468;Andorra la Vella;EU;EUR;Andorra;84000
+AE;ARE;82880;Abu Dhabi;AS;AED;United Arab Emirates;4975593
+AF;AFG;647500;Kabul;AS;AFN;Afghanistan;29121286
+AG;ATG;443;St. John's;NA;XCD;Antigua and Barbuda;86754
+AI;AIA;102;The Valley;NA;XCD;Anguilla;13254
+AL;ALB;28748;Tirana;EU;ALL;Albania;2986952
+AM;ARM;29800;Yerevan;AS;AMD;Armenia;2968000
+AO;AGO;1246700;Luanda;AF;AOA;Angola;13068161
+AQ;ATA;14000000;;AN;;Antarctica;0
+AR;ARG;2766890;Buenos Aires;SA;ARS;Argentina;41343201
+AS;ASM;199;Pago Pago;OC;USD;American Samoa;57881
+AT;AUT;83858;Vienna;EU;EUR;Austria;8205000
+AU;AUS;7686850;Canberra;OC;AUD;Australia;21515754
+AW;ABW;193;Oranjestad;NA;AWG;Aruba;71566
+AX;ALA;1580;Mariehamn;EU;EUR;Aland Islands;26711
+AZ;AZE;86600;Baku;AS;AZN;Azerbaijan;8303512
+BA;BIH;51129;Sarajevo;EU;BAM;Bosnia and Herzegovina;4590000
+BB;BRB;431;Bridgetown;NA;BBD;Barbados;285653
+BD;BGD;144000;Dhaka;AS;BDT;Bangladesh;156118464
+BE;BEL;30510;Brussels;EU;EUR;Belgium;10403000
+BF;BFA;274200;Ouagadougou;AF;XOF;Burkina Faso;16241811
+BG;BGR;110910;Sofia;EU;BGN;Bulgaria;7148785
+BH;BHR;665;Manama;AS;BHD;Bahrain;738004
+BI;BDI;27830;Bujumbura;AF;BIF;Burundi;9863117
+BJ;BEN;112620;Porto-Novo;AF;XOF;Benin;9056010
+BL;BLM;21;Gustavia;NA;EUR;Saint Barthelemy;8450
+BM;BMU;53;Hamilton;NA;BMD;Bermuda;65365
+BN;BRN;5770;Bandar Seri Begawan;AS;BND;Brunei;395027
+BO;BOL;1098580;Sucre;SA;BOB;Bolivia;9947418
+BQ;BES;328;;NA;USD;Bonaire, Saint Eustatius and Saba ;18012
+BR;BRA;8511965;Brasilia;SA;BRL;Brazil;201103330
+BS;BHS;13940;Nassau;NA;BSD;Bahamas;301790
+BT;BTN;47000;Thimphu;AS;BTN;Bhutan;699847
+BV;BVT;49;;AN;NOK;Bouvet Island;0
+BW;BWA;600370;Gaborone;AF;BWP;Botswana;2029307
+BY;BLR;207600;Minsk;EU;BYR;Belarus;9685000
+BZ;BLZ;22966;Belmopan;NA;BZD;Belize;314522
+CA;CAN;9984670;Ottawa;NA;CAD;Canada;33679000
+CC;CCK;14;West Island;AS;AUD;Cocos Islands;628
+CD;COD;2345410;Kinshasa;AF;CDF;Democratic Republic of the Congo;70916439
+CF;CAF;622984;Bangui;AF;XAF;Central African Republic;4844927
+CG;COG;342000;Brazzaville;AF;XAF;Republic of the Congo;3039126
+CH;CHE;41290;Bern;EU;CHF;Switzerland;7581000
+CI;CIV;322460;Yamoussoukro;AF;XOF;Ivory Coast;21058798
+CK;COK;240;Avarua;OC;NZD;Cook Islands;21388
+CL;CHL;756950;Santiago;SA;CLP;Chile;16746491
+CM;CMR;475440;Yaounde;AF;XAF;Cameroon;19294149
+CN;CHN;9596960;Beijing;AS;CNY;China;1330044000
+CO;COL;1138910;Bogota;SA;COP;Colombia;47790000
+CR;CRI;51100;San Jose;NA;CRC;Costa Rica;4516220
+CU;CUB;110860;Havana;NA;CUP;Cuba;11423000
+CV;CPV;4033;Praia;AF;CVE;Cape Verde;508659
+CW;CUW;444; Willemstad;NA;ANG;Curacao;141766
+CX;CXR;135;Flying Fish Cove;AS;AUD;Christmas Island;1500
+CY;CYP;9250;Nicosia;EU;EUR;Cyprus;1102677
+CZ;CZE;78866;Prague;EU;CZK;Czechia;10476000
+DE;DEU;357021;Berlin;EU;EUR;Germany;81802257
+DJ;DJI;23000;Djibouti;AF;DJF;Djibouti;740528
+DK;DNK;43094;Copenhagen;EU;DKK;Denmark;5484000
+DM;DMA;754;Roseau;NA;XCD;Dominica;72813
+DO;DOM;48730;Santo Domingo;NA;DOP;Dominican Republic;9823821
+DZ;DZA;2381740;Algiers;AF;DZD;Algeria;34586184
+EC;ECU;283560;Quito;SA;USD;Ecuador;14790608
+EE;EST;45226;Tallinn;EU;EUR;Estonia;1291170
+EG;EGY;1001450;Cairo;AF;EGP;Egypt;80471869
+EH;ESH;266000;El-Aaiun;AF;MAD;Western Sahara;273008
+ER;ERI;121320;Asmara;AF;ERN;Eritrea;5792984
+ES;ESP;504782;Madrid;EU;EUR;Spain;46505963
+ET;ETH;1127127;Addis Ababa;AF;ETB;Ethiopia;88013491
+FI;FIN;337030;Helsinki;EU;EUR;Finland;5244000
+FJ;FJI;18270;Suva;OC;FJD;Fiji;875983
+FK;FLK;12173;Stanley;SA;FKP;Falkland Islands;2638
+FM;FSM;702;Palikir;OC;USD;Micronesia;107708
+FO;FRO;1399;Torshavn;EU;DKK;Faroe Islands;48228
+FR;FRA;547030;Paris;EU;EUR;France;64768389
+GA;GAB;267667;Libreville;AF;XAF;Gabon;1545255
+GB;GBR;244820;London;EU;GBP;United Kingdom;62348447
+GD;GRD;344;St. George's;NA;XCD;Grenada;107818
+GE;GEO;69700;Tbilisi;AS;GEL;Georgia;4630000
+GF;GUF;91000;Cayenne;SA;EUR;French Guiana;195506
+GG;GGY;78;St Peter Port;EU;GBP;Guernsey;65228
+GH;GHA;239460;Accra;AF;GHS;Ghana;24339838
+GI;GIB;6.5;Gibraltar;EU;GIP;Gibraltar;27884
+GL;GRL;2166086;Nuuk;NA;DKK;Greenland;56375
+GM;GMB;11300;Banjul;AF;GMD;Gambia;1593256
+GN;GIN;245857;Conakry;AF;GNF;Guinea;10324025
+GP;GLP;1780;Basse-Terre;NA;EUR;Guadeloupe;443000
+GQ;GNQ;28051;Malabo;AF;XAF;Equatorial Guinea;1014999
+GR;GRC;131940;Athens;EU;EUR;Greece;11000000
+GS;SGS;3903;Grytviken;AN;GBP;South Georgia and the South Sandwich Islands;30
+GT;GTM;108890;Guatemala City;NA;GTQ;Guatemala;13550440
+GU;GUM;549;Hagatna;OC;USD;Guam;159358
+GW;GNB;36120;Bissau;AF;XOF;Guinea-Bissau;1565126
+GY;GUY;214970;Georgetown;SA;GYD;Guyana;748486
+HK;HKG;1092;Hong Kong;AS;HKD;Hong Kong;6898686
+HM;HMD;412;;AN;AUD;Heard Island and McDonald Islands;0
+HN;HND;112090;Tegucigalpa;NA;HNL;Honduras;7989415
+HR;HRV;56542;Zagreb;EU;HRK;Croatia;4284889
+HT;HTI;27750;Port-au-Prince;NA;HTG;Haiti;9648924
+HU;HUN;93030;Budapest;EU;HUF;Hungary;9982000
+ID;IDN;1919440;Jakarta;AS;IDR;Indonesia;242968342
+IE;IRL;70280;Dublin;EU;EUR;Ireland;4622917
+IL;ISR;20770;Jerusalem;AS;ILS;Israel;7353985
+IM;IMN;572;Douglas;EU;GBP;Isle of Man;75049
+IN;IND;3287590;New Delhi;AS;INR;India;1173108018
+IO;IOT;60;Diego Garcia;AS;USD;British Indian Ocean Territory;4000
+IQ;IRQ;437072;Baghdad;AS;IQD;Iraq;29671605
+IR;IRN;1648000;Tehran;AS;IRR;Iran;76923300
+IS;ISL;103000;Reykjavik;EU;ISK;Iceland;308910
+IT;ITA;301230;Rome;EU;EUR;Italy;60340328
+JE;JEY;116;Saint Helier;EU;GBP;Jersey;90812
+JM;JAM;10991;Kingston;NA;JMD;Jamaica;2847232
+JO;JOR;92300;Amman;AS;JOD;Jordan;6407085
+JP;JPN;377835;Tokyo;AS;JPY;Japan;127288000
+KE;KEN;582650;Nairobi;AF;KES;Kenya;40046566
+KG;KGZ;198500;Bishkek;AS;KGS;Kyrgyzstan;5776500
+KH;KHM;181040;Phnom Penh;AS;KHR;Cambodia;14453680
+KI;KIR;811;Tarawa;OC;AUD;Kiribati;92533
+KM;COM;2170;Moroni;AF;KMF;Comoros;773407
+KN;KNA;261;Basseterre;NA;XCD;Saint Kitts and Nevis;51134
+KP;PRK;120540;Pyongyang;AS;KPW;North Korea;22912177
+KR;KOR;98480;Seoul;AS;KRW;South Korea;48422644
+XK;XKX;10908;Pristina;EU;EUR;Kosovo;1800000
+KW;KWT;17820;Kuwait City;AS;KWD;Kuwait;2789132
+KY;CYM;262;George Town;NA;KYD;Cayman Islands;44270
+KZ;KAZ;2717300;Astana;AS;KZT;Kazakhstan;15340000
+LA;LAO;236800;Vientiane;AS;LAK;Laos;6368162
+LB;LBN;10400;Beirut;AS;LBP;Lebanon;4125247
+LC;LCA;616;Castries;NA;XCD;Saint Lucia;160922
+LI;LIE;160;Vaduz;EU;CHF;Liechtenstein;35000
+LK;LKA;65610;Colombo;AS;LKR;Sri Lanka;21513990
+LR;LBR;111370;Monrovia;AF;LRD;Liberia;3685076
+LS;LSO;30355;Maseru;AF;LSL;Lesotho;1919552
+LT;LTU;65200;Vilnius;EU;EUR;Lithuania;2944459
+LU;LUX;2586;Luxembourg;EU;EUR;Luxembourg;497538
+LV;LVA;64589;Riga;EU;EUR;Latvia;2217969
+LY;LBY;1759540;Tripoli;AF;LYD;Libya;6461454
+MA;MAR;446550;Rabat;AF;MAD;Morocco;31627428
+MC;MCO;1.95;Monaco;EU;EUR;Monaco;32965
+MD;MDA;33843;Chisinau;EU;MDL;Moldova;4324000
+ME;MNE;14026;Podgorica;EU;EUR;Montenegro;666730
+MF;MAF;53;Marigot;NA;EUR;Saint Martin;35925
+MG;MDG;587040;Antananarivo;AF;MGA;Madagascar;21281844
+MH;MHL;181.3;Majuro;OC;USD;Marshall Islands;65859
+MK;MKD;25333;Skopje;EU;MKD;Macedonia;2062294
+ML;MLI;1240000;Bamako;AF;XOF;Mali;13796354
+MM;MMR;678500;Nay Pyi Taw;AS;MMK;Myanmar;53414374
+MN;MNG;1565000;Ulan Bator;AS;MNT;Mongolia;3086918
+MO;MAC;254;Macao;AS;MOP;Macao;449198
+MP;MNP;477;Saipan;OC;USD;Northern Mariana Islands;53883
+MQ;MTQ;1100;Fort-de-France;NA;EUR;Martinique;432900
+MR;MRT;1030700;Nouakchott;AF;MRO;Mauritania;3205060
+MS;MSR;102;Plymouth;NA;XCD;Montserrat;9341
+MT;MLT;316;Valletta;EU;EUR;Malta;403000
+MU;MUS;2040;Port Louis;AF;MUR;Mauritius;1294104
+MV;MDV;300;Male;AS;MVR;Maldives;395650
+MW;MWI;118480;Lilongwe;AF;MWK;Malawi;15447500
+MX;MEX;1972550;Mexico City;NA;MXN;Mexico;112468855
+MY;MYS;329750;Kuala Lumpur;AS;MYR;Malaysia;28274729
+MZ;MOZ;801590;Maputo;AF;MZN;Mozambique;22061451
+NA;NAM;825418;Windhoek;AF;NAD;Namibia;2128471
+NC;NCL;19060;Noumea;OC;XPF;New Caledonia;216494
+NE;NER;1267000;Niamey;AF;XOF;Niger;15878271
+NF;NFK;34.6;Kingston;OC;AUD;Norfolk Island;1828
+NG;NGA;923768;Abuja;AF;NGN;Nigeria;154000000
+NI;NIC;129494;Managua;NA;NIO;Nicaragua;5995928
+NL;NLD;41526;Amsterdam;EU;EUR;Netherlands;16645000
+NO;NOR;324220;Oslo;EU;NOK;Norway;5009150
+NP;NPL;140800;Kathmandu;AS;NPR;Nepal;28951852
+NR;NRU;21;Yaren;OC;AUD;Nauru;10065
+NU;NIU;260;Alofi;OC;NZD;Niue;2166
+NZ;NZL;268680;Wellington;OC;NZD;New Zealand;4252277
+OM;OMN;212460;Muscat;AS;OMR;Oman;2967717
+PA;PAN;78200;Panama City;NA;PAB;Panama;3410676
+PE;PER;1285220;Lima;SA;PEN;Peru;29907003
+PF;PYF;4167;Papeete;OC;XPF;French Polynesia;270485
+PG;PNG;462840;Port Moresby;OC;PGK;Papua New Guinea;6064515
+PH;PHL;300000;Manila;AS;PHP;Philippines;99900177
+PK;PAK;803940;Islamabad;AS;PKR;Pakistan;184404791
+PL;POL;312685;Warsaw;EU;PLN;Poland;38500000
+PM;SPM;242;Saint-Pierre;NA;EUR;Saint Pierre and Miquelon;7012
+PN;PCN;47;Adamstown;OC;NZD;Pitcairn;46
+PR;PRI;9104;San Juan;NA;USD;Puerto Rico;3916632
+PS;PSE;5970;East Jerusalem;AS;ILS;Palestinian Territory;3800000
+PT;PRT;92391;Lisbon;EU;EUR;Portugal;10676000
+PW;PLW;458;Melekeok;OC;USD;Palau;19907
+PY;PRY;406750;Asuncion;SA;PYG;Paraguay;6375830
+QA;QAT;11437;Doha;AS;QAR;Qatar;840926
+RE;REU;2517;Saint-Denis;AF;EUR;Reunion;776948
+RO;ROU;237500;Bucharest;EU;RON;Romania;21959278
+RS;SRB;88361;Belgrade;EU;RSD;Serbia;7344847
+RU;RUS;17100000;Moscow;EU;RUB;Russia;140702000
+RW;RWA;26338;Kigali;AF;RWF;Rwanda;11055976
+SA;SAU;1960582;Riyadh;AS;SAR;Saudi Arabia;25731776
+SB;SLB;28450;Honiara;OC;SBD;Solomon Islands;559198
+SC;SYC;455;Victoria;AF;SCR;Seychelles;88340
+SD;SDN;1861484;Khartoum;AF;SDG;Sudan;35000000
+SS;SSD;644329;Juba;AF;SSP;South Sudan;8260490
+SE;SWE;449964;Stockholm;EU;SEK;Sweden;9828655
+SG;SGP;692.7;Singapore;AS;SGD;Singapore;4701069
+SH;SHN;410;Jamestown;AF;SHP;Saint Helena;7460
+SI;SVN;20273;Ljubljana;EU;EUR;Slovenia;2007000
+SJ;SJM;62049;Longyearbyen;EU;NOK;Svalbard and Jan Mayen;2550
+SK;SVK;48845;Bratislava;EU;EUR;Slovakia;5455000
+SL;SLE;71740;Freetown;AF;SLL;Sierra Leone;5245695
+SM;SMR;61.2;San Marino;EU;EUR;San Marino;31477
+SN;SEN;196190;Dakar;AF;XOF;Senegal;12323252
+SO;SOM;637657;Mogadishu;AF;SOS;Somalia;10112453
+SR;SUR;163270;Paramaribo;SA;SRD;Suriname;492829
+ST;STP;1001;Sao Tome;AF;STD;Sao Tome and Principe;175808
+SV;SLV;21040;San Salvador;NA;USD;El Salvador;6052064
+SX;SXM;21;Philipsburg;NA;ANG;Sint Maarten;37429
+SY;SYR;185180;Damascus;AS;SYP;Syria;22198110
+SZ;SWZ;17363;Mbabane;AF;SZL;Swaziland;1354051
+TC;TCA;430;Cockburn Town;NA;USD;Turks and Caicos Islands;20556
+TD;TCD;1284000;N'Djamena;AF;XAF;Chad;10543464
+TF;ATF;7829;Port-aux-Francais;AN;EUR;French Southern Territories;140
+TG;TGO;56785;Lome;AF;XOF;Togo;6587239
+TH;THA;514000;Bangkok;AS;THB;Thailand;67089500
+TJ;TJK;143100;Dushanbe;AS;TJS;Tajikistan;7487489
+TK;TKL;10;;OC;NZD;Tokelau;1466
+TL;TLS;15007;Dili;OC;USD;East Timor;1154625
+TM;TKM;488100;Ashgabat;AS;TMT;Turkmenistan;4940916
+TN;TUN;163610;Tunis;AF;TND;Tunisia;10589025
+TO;TON;748;Nuku'alofa;OC;TOP;Tonga;122580
+TR;TUR;780580;Ankara;AS;TRY;Turkey;77804122
+TT;TTO;5128;Port of Spain;NA;TTD;Trinidad and Tobago;1228691
+TV;TUV;26;Funafuti;OC;AUD;Tuvalu;10472
+TW;TWN;35980;Taipei;AS;TWD;Taiwan;22894384
+TZ;TZA;945087;Dodoma;AF;TZS;Tanzania;41892895
+UA;UKR;603700;Kiev;EU;UAH;Ukraine;45415596
+UG;UGA;236040;Kampala;AF;UGX;Uganda;33398682
+UM;UMI;0;;OC;USD;United States Minor Outlying Islands;0
+US;USA;9629091;Washington;NA;USD;United States;310232863
+UY;URY;176220;Montevideo;SA;UYU;Uruguay;3477000
+UZ;UZB;447400;Tashkent;AS;UZS;Uzbekistan;27865738
+VA;VAT;0.44;Vatican City;EU;EUR;Vatican;921
+VC;VCT;389;Kingstown;NA;XCD;Saint Vincent and the Grenadines;104217
+VE;VEN;912050;Caracas;SA;VEF;Venezuela;27223228
+VG;VGB;153;Road Town;NA;USD;British Virgin Islands;21730
+VI;VIR;352;Charlotte Amalie;NA;USD;U.S. Virgin Islands;108708
+VN;VNM;329560;Hanoi;AS;VND;Vietnam;89571130
+VU;VUT;12200;Port Vila;OC;VUV;Vanuatu;221552
+WF;WLF;274;Mata Utu;OC;XPF;Wallis and Futuna;16025
+WS;WSM;2944;Apia;OC;WST;Samoa;192001
+YE;YEM;527970;Sanaa;AS;YER;Yemen;23495361
+YT;MYT;374;Mamoudzou;AF;EUR;Mayotte;159042
+ZA;ZAF;1219912;Pretoria;AF;ZAR;South Africa;49000000
+ZM;ZMB;752614;Lusaka;AF;ZMW;Zambia;13460305
+ZW;ZWE;390580;Harare;AF;ZWL;Zimbabwe;13061000
+CS;SCG;102350;Belgrade;EU;RSD;Serbia and Montenegro;10829175
+AN;ANT;960;Willemstad;NA;ANG;Netherlands Antilles;300000

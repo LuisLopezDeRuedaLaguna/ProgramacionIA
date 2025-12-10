@@ -1,0 +1,1 @@
+hola: 4 adios: 2 paco: 1 jose: 1 miguel: 1 jota: 1 moqueta: 1 
